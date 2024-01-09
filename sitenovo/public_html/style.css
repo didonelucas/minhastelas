@@ -7,8 +7,8 @@
 }
 
 .alinhaImagem {
-    width:306px;
-    height:200px;
+    width:350px;
+    height:300px;
    
 }
 
@@ -38,4 +38,9 @@
 .ajustaImagem{
     height: 50vh;
 }
+
+.centraliza{
+     margin-bottom:-7vh;
+}
+
 
